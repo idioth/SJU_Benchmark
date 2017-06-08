@@ -1,0 +1,7 @@
+﻿  15011116_SJU_Benchmark.c
+15011116_SJU_Benchmark.c(26): warning C4101: 'time_spent' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  15011116_SJU_Benchmark.vcxproj -> C:\Users\idioth\Desktop\새 폴더\x64\Release\15011116_SJU_Benchmark.exe
+  15011116_SJU_Benchmark.vcxproj -> C:\Users\idioth\Desktop\새 폴더\x64\Release\15011116_SJU_Benchmark.pdb (Full PDB)
